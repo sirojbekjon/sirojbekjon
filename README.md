@@ -1,1 +1,1 @@
-### Hi, I am Sirojiddin Ziyadillayev 👋 <iframe src="https://giphy.com/embed/138soHYfxnxfbi" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watch-apple-alle-138soHYfxnxfbi">via GIPHY</a></p>
+### Hi, I am Sirojiddin Ziyadillayev 👋 <img src="https://giphy.com/embed/138soHYfxnxfbi" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
