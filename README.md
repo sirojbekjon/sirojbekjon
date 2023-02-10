@@ -2,7 +2,7 @@
 
 I make videos on Youtube about developer,<br/>
 I work remotely and like travel a lot,
-<a href="https://www.youtube.come/sirojiddingroup">
+<a href="https://www.youtube.com/@sirojiddingroup">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="30px">
 </a>
 
