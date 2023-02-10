@@ -1,1 +1,1 @@
-### Hi, I am Sirojiddin Ziyadillayev 👋 <img src="https://giphy.com/embed/138soHYfxnxfbi" width="398" height="480" frameBorder="0" class="giphy-embed" allowFullScreen/>
+### Hi, I am Sirojiddin Ziyadillayev 👋 <img src="https://media3.giphy.com/media/OhkMiKX0uMmLC/giphy.gif?cid=ecf05e47yd6wrj1wqashqqam2moxiolq9zee0n2erzguclxl&rid=giphy.gif&ct=g" width="30px">
